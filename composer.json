@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "snowsoft/laravel-admin": "~1.5"
+        "snowsoft/laravel-admin": ">=1.5"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
